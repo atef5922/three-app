@@ -1,12 +1,14 @@
 import React from 'react'
-import './About.css'  
+import './About.css'
+import Header from './Header'
 
 const About = () => {
-  return (
-    <div className='About'>
-        <h1>This is about Page</h1>
-    </div>
-  )
+    return (
+        <div className='About'>
+            <Header />
+            <h1>This is about Page</h1>
+        </div>
+    )
 }
 
 export default About
