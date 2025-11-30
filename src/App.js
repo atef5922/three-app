@@ -1,12 +1,17 @@
 
 import './App.css';
-import Home from './pages/Home';
+import Home from './pages/Home'
+import About from './pages/About'
+import Contact from './pages/Contact'
+
 
 function App() {
   return (
     <div className="App">
-       <h1 className='firstclass'>Hello Atef Programmer</h1>
+       
        <Home />
+       <About />
+       <Contact />
 
     </div>
   );
