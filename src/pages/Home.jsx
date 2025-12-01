@@ -96,27 +96,27 @@ const Home = () => {
         <div className="container">
           <div className="row text-center">
             <div className="col-md-2">
-              <img src="img/1.png" alt="" />
+              <img src="/assets/img/1.png" alt="" />
             </div>
 
             <div className="col-md-2 ">
-              <img src="img/3.png" alt="" />
+              <img src="/assets/img/3.png" alt="" />
             </div>
 
             <div className="col-md-2">
-              <img src="img/2.png" alt="" />
+              <img src="/assets/img/2.png" alt="" />
             </div>
 
             <div className="col-md-2">
-              <img src="img/4.png" alt="" />
+              <img src="/assets/img/4.png" alt="" />
             </div>
 
             <div className="col-md-2">
-              <img src="img/5.png" alt="" />
+              <img src="/assets/img/5.png" alt="" />
             </div>
 
             <div className="col-md-2">
-              <img src="img/6.png" alt="" />
+              <img src="/assets/img/6.png" alt="" />
             </div>
 
           </div>
@@ -130,11 +130,11 @@ const Home = () => {
             <h3>Trending Near You</h3>
             <div className="col-md-4">
               <div className="card">
-                <img src="img/car2.png" alt="" className="card-img-top" />
+                <img src="/assets/img/car2.png" alt="" className="card-img-top" />
                 <div className="card-body">
                   <h5>Subaru Forester</h5>
                   <p>11 475 Miles</p>
-                  <p>AWD <img src="img/dot.svg" alt="" /> loem ipsom</p>
+                  <p>AWD <img src="/assets/img/dot.svg" alt="" /> loem ipsom</p>
                   <div className="btn-group gap-2">
                     <button className="btn Button1">$21,480</button>
                     <button className="btn Button2">Buy Now</button>
@@ -146,11 +146,11 @@ const Home = () => {
 
             <div className="col-md-4">
               <div className="card">
-                <img src="img/car1.png" alt="" className="card-img-top" />
+                <img src="/assets/img/car1.png" alt="" className="card-img-top" />
                 <div className="card-body">
                   <h5>Subaru Forester</h5>
                   <p>11 475 Miles</p>
-                  <p>AWD <img src="img/dot.svg" alt="" /> loem ipsom</p>
+                  <p>AWD <img src="/assets/img/dot.svg" alt="" /> loem ipsom</p>
                   <div className="btn-group gap-2">
                     <button className="btn Button1">$21,480</button>
                     <button className="btn Button2">Buy Now</button>
@@ -161,11 +161,11 @@ const Home = () => {
 
             <div className="col-md-4">
               <div className="card">
-                <img src="img/car2.png" alt="" className="card-img-top" />
+                <img src="/assets/img/car2.png" alt="" className="card-img-top" />
                 <div className="card-body">
                   <h5>Subaru Forester</h5>
                   <p>11 475 Miles</p>
-                  <p>AWD <img src="img/dot.svg" alt="" /> loem ipsom</p>
+                  <p>AWD <img src="/assets/img/dot.svg" alt="" /> loem ipsom</p>
                   <div className="btn-group gap-2">
                     <button className="btn Button1">$21,480</button>
                     <button className="btn Button2">Buy Now</button>
@@ -185,15 +185,15 @@ const Home = () => {
           <h2 className="findCar">Find car by model</h2>
           <p className="ArrowArea">
             1/6
-            <span><img src="img/arrowLeft.png" alt="" /></span>
-            <span><img src="img/arrowRight.png" alt="" /></span>
+            <span><img src="/assets/img/arrowLeft.png" alt="" /></span>
+            <span><img src="/assets/img/arrowRight.png" alt="" /></span>
           </p>
         </header>
 
         <section className="CarouselSection d-flex">
 
           <div className="product text-center">
-            <img src="img/car/car1.png" alt="" />
+            <img src="/assets/img/car/car1.png" alt="" />
             <div className="ProDetails">
               <p className="Sedan">Sedan</p>
               <button className="btn ProBTN">23,457 vehicles</button>
@@ -201,7 +201,7 @@ const Home = () => {
           </div>
 
           <div className="product text-center">
-            <img src="img/car/car1.png" alt="" />
+            <img src="/assets/img/car/car1.png" alt="" />
             <div className="ProDetails">
               <p className="Sedan">SUV</p>
               <button className="btn ProBTN1">23,457 vehicles</button>
@@ -209,7 +209,7 @@ const Home = () => {
           </div>
 
           <div className="product text-center">
-            <img src="img/car/car1.png" alt="" />
+            <img src="/assets/img/car/car1.png" alt="" />
             <div className="ProDetails">
               <p className="Sedan">SUV</p>
               <button className="btn ProBTN1">23,457 vehicles</button>
@@ -217,7 +217,7 @@ const Home = () => {
           </div>
 
           <div className="product text-center">
-            <img src="img/car/car1.png" alt="" />
+            <img src="/assets/img/car/car1.png" alt="" />
             <div className="ProDetails">
               <p className="Sedan">SUV</p>
               <button className="btn ProBTN1">23,457 vehicles</button>
@@ -229,28 +229,28 @@ const Home = () => {
           </div>
 
           <div className="product text-center">
-            <img src="img/car/car1.png" alt="" />
+            <img src="/assets/img/car/car1.png" alt="" />
             <div className="ProDetails">
               <p className="Sedan">SUV</p>
               <button className="btn ProBTN1">23,457 vehicles</button>
             </div>
           </div>
           <div className="product text-center">
-            <img src="img/car/car1.png" alt="" />
+            <img src="/assets/img/car/car1.png" alt="" />
             <div className="ProDetails">
               <p className="Sedan">SUV</p>
               <button className="btn ProBTN1">23,457 vehicles</button>
             </div>
           </div>
           <div className="product text-center">
-            <img src="img/car/car1.png" alt="" />
+            <img src="/assets/img/car/car1.png" alt="" />
             <div className="ProDetails">
               <p className="Sedan">SUV</p>
               <button className="btn ProBTN1">23,457 vehicles</button>
             </div>
           </div>
           <div className="product text-center">
-            <img src="img/car/car1.png" alt="" />
+            <img src="/assets/img/car/car1.png" alt="" />
             <div className="ProDetails">
               <p className="Sedan">SUV</p>
               <button className="btn ProBTN1">23,457 vehicles</button>
